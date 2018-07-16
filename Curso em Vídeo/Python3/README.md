@@ -141,3 +141,7 @@ Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece
 Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
 
 [Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex027.py)
+
+## Exercício 28 - Jogo da advinhação
+Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+[Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex028.py)
