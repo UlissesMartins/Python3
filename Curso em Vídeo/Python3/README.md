@@ -85,6 +85,7 @@ Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente 
 Calcule e mostre o comprimento da hipotenusa.
 
 [Resolução1](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex017-A.py)
+
 [Resolução2](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex017-B.py)
 
 ## Exercício 18 - Seno, Cosseno e Tangente
