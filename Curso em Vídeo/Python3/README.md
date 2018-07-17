@@ -151,3 +151,8 @@ Escreva um programa que faça o computador "pensar" em um número inteiro entre 
 Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
 
 [Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex029.py)
+
+## Exercício 30 - Par ou Ímpar
+Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+
+[Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex030.py)
