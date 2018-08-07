@@ -25,7 +25,7 @@ Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e 
 
 [Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex005.py)
 
-## Exercício 6 - Doblo, Triplo, Raiz quadrada 
+## Exercício 6 - Dobro, Triplo e Raiz quadrada 
 Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 
 [Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex006.py)
@@ -76,7 +76,7 @@ Escreva um programa que pergunte a quantidade de Km percorridos por um carro alu
 [Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex015.py)
 
 ## Exercício 16 - Quebrando um número
-Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção Inteira.
 
 [Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex016.py)
 
