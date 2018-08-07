@@ -157,3 +157,7 @@ Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h
 Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
 
 [Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex030.py)
+
+## Exercício 31 - Distância da sua viagem
+Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
+[Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex031.py)
