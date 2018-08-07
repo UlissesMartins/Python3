@@ -162,3 +162,23 @@ Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou �
 Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
 
 [Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex031.py)
+
+## Exercício 32 - Ano Bissexto
+Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+
+[Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex032.py)
+
+## Exercício 33 - Maior e menor valores
+Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+
+[Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex033.py)
+
+## Exercício 34 - Aumentos multiplos
+Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+
+[Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex034.py)
+
+## Exercício 35 -Analisando Triângulo v1.0
+Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+
+[Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex035.py)
