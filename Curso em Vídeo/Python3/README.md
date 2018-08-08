@@ -2,4 +2,4 @@
 
 ## Curso de Python 3 – Mundo 01: Fundamentos
 
-## Curso de Python 3 - Mundo 02: Estruturas de repetição
+## Curso de Python 3 - Mundo 02: Estruturas de controle
