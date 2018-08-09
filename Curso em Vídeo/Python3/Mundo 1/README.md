@@ -1,19 +1,13 @@
 # Fundamentos [(Aulas)](http://www.cursoemvideo.com/course/curso-python-3/)
 
-## Exercício 1 - Hello World
+## Exercício 1 - [(Hello World)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex001.py)
 Faça um programa que mostre a mensagem 'Ola mundo!' na tela!
 
-[Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex001.py)
-
-## Exercício 2 - Respondendo ao usuario
+## Exercício 2 - [(Respondendo ao usuario)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex002.py)
 Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
-[Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex002.py)
-
-## Exercício 3 - Somando dois números
+## Exercício 3 - [(Somando dois números)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex003.py)
 Crie um programa que leia dois números e mostre a soma entre eles.
-
-[Resolução](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex003.py)
 
 ## Exercício 4 - Dissecando uma variável
 Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
