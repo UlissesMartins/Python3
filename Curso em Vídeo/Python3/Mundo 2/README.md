@@ -1,30 +1,30 @@
-# Fundamentos [(Aulas)](http://www.cursoemvideo.com/course/curso-python-3/)
+# Estruturas de controle [(Aulas)](http://www.cursoemvideo.com/course/curso-python-3/)
 
-## Exercício 36 - [(Aprovando empréstimo)]
+## Exercício 36 - [(Aprovando empréstimo)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%202/ex036.py)
 Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa.
 O progama vai perguntar o valor da casa, o salário do comprador e em quanto anos ele vai pagar.
 Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado
 
-## Exercício 37 - [(Conversor de bases númericas)]
+## Exercício 37 - [(Conversor de bases númericas)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%202/ex037.py)
 Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
 
-## Exercício 38 - [(Comparando números)]
+## Exercício 38 - [(Comparando números)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%202/ex038.py)
 Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem:
 - O primeiro valor é maior
 - O segundo valor é maior
 - Não existe valor maior, os dois são iguais
 
-## Exercício 39 - [(Alistamento Militar)]
+## Exercício 39 - [(Alistamento Militar)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%202/ex039.py)
 Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento.
 Seu programa também deverá mostrar o tempo que falta ou que passou do prazo
 
-## Exercício 40 - [(Aquele clássico da média)]
+## Exercício 40 - [(Aquele clássico da média)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%202/ex040.py)
 Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
 - Média abaixo de 5.0: REPROVADO
 - Média entre 5.0 e 6.9: RECUPERAÇÃO
 - Média 7.0 ou superior: APROVADO
 
-## Exercício 41 - [(Classificando atletas)]
+## Exercício 41 - [(Classificando atletas)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%202/ex041.py)
 A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
 - Até 9 anos: MIRIM
 - Até 14 anos: INFANTIL
@@ -32,13 +32,13 @@ A Confederação Nacional de Natação precisa de um programa que leia o ano de 
 - Até 25 anos: SÊNIOR
 - Acima de 25 anos: MASTER
 
-## Exercício 42 - [(Analisando triângulos 2.0)]
+## Exercício 42 - [(Analisando triângulos 2.0)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%202/ex042.py)
 Refaça o DESAFIO 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
 - EQUILÁTERO: todos os lados iguais
 - ISÓSCELES: dois lados iguais, um diferente
 - ESCALENO: todos os lados diferentes
 
-## Exercício 43 - [(Índice de massa corporal)]
+## Exercício 43 - [(Índice de massa corporal)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%202/ex043.py)
 Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
 - IMC abaixo de 18,5: Abaixo do Peso
 - Entre 18,5 e 25: Peso Ideal
@@ -46,7 +46,7 @@ Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Ín
 - 30 até 40: Obesidade
 - Acima de 40: Obesidade Mórbida
 
-## Exercício 44 - [(Gerenciador de pagamentos)]
+## Exercício 44 - [(Gerenciador de pagamentos)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%202/ex044.py)
 Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
 - à vista dinheiro/cheque: 10% de desconto
 - à vista no cartão: 5% de desconto
