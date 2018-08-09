@@ -1,4 +1,4 @@
-# Estruturas de controle [(Aulas)](http://www.cursoemvideo.com/course/curso-python-3/)
+# Estruturas de controle [(Aulas)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 
 ## Exercício 36 - [(Aprovando empréstimo)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%202/ex036.py)
 Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa.
