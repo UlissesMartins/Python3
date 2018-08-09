@@ -7,7 +7,7 @@ equilátero (todos os lados iguais)
 
 escaleno (todos os lados diferentes)
 
-Note que se o triângulo for equilátero, a função não deve devolver isóceles.'''
+Note que se o triângulo for equilátero, a função não deve devolver isósceles.'''
 
 class Triangulo:
     def __init__(self, lado1, lado2, lado3):
@@ -24,7 +24,7 @@ class Triangulo:
         elif (self.a != self.b) and (self.a != self.c) and (self.b != self.c):
             return 'escaleno'
         else:
-            return 'isóceles'
+            return 'isósceles'
 
 
 def main():
