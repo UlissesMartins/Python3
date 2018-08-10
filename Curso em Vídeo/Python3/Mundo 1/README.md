@@ -3,11 +3,14 @@
 ## Exercício 1 - [(Hello World)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex001.py)
 Faça um programa que mostre a mensagem 'Ola mundo!' na tela!
 
+
 ## Exercício 2 - [(Respondendo ao usuario)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex002.py)
 Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
+
 ## Exercício 3 - [(Somando dois números)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex003.py)
 Crie um programa que leia dois números e mostre a soma entre eles.
+
 
 ## Exercício 4 - [(Dissecando uma variável)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex0034.py)
 Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
@@ -68,6 +71,7 @@ Calcule e mostre o comprimento da hipotenusa.
 [Resolução1](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex017-A.py)
 
 [Resolução2](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex017-B.py)
+
 
 ## Exercício 18 - [(Seno, Cosseno e Tangente)](https://github.com/UlissesMartins/Python3/blob/master/Curso%20em%20V%C3%ADdeo/Python3/Mundo%201/ex018.py)
 Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
